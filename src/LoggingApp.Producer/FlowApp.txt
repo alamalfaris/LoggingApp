@@ -1,0 +1,2 @@
+﻿1. POST API METHOD to POST log data
+2. Produce method to kafka
